@@ -1,7 +1,5 @@
 ![ElAlemanyo](https://github.com/elalemanyo/elalemanyo/raw/master/elalemanyo.jpg)
 
-<br/>
-
 <a href="https://codepen.io/elalemanyo">
   <img align="left" alt="ElAlemanyo @ Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
